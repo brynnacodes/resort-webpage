@@ -8,6 +8,10 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-size: 35px;
+}
+
 p {
   font-size: 30px;
   background-color: lightblue;
@@ -19,6 +23,10 @@ li {
 
 a {
   color: black;
+}
+
+img {
+  border: 3px solid black;
 }
 
 body {
