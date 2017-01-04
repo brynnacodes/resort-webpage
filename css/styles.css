@@ -3,6 +3,24 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+  background-color: lightblue;
+}
+
+li {
+  font-size: 30px;
+}
+
+a {
+  color: black;
+}
+
 body {
-  background-image: url("https://images5.alphacoders.com/457/457009.jpg");
+  background-image: url("http://previews.123rf.com/images/tonobalaguer/tonobalaguer1503/tonobalaguer150300329/37676392-Tropical-sea-water-texture-reflections-like-paradise-summer-vacation-Stock-Photo.jpg");
 }
